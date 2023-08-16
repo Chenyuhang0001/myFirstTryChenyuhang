@@ -60,7 +60,10 @@ jobs:
       - name: Run eclair tests
         run: BITCOIND_DIR=$GITHUB_WORKSPACE/bitcoin/src mvn test
         working-directory: ./eclair
+//this is branck a
+//already changed
 
 
 
         //this is 
+        //this is result of merging a
